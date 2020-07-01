@@ -4,14 +4,17 @@ title: Projects
 permalink: /Project/
 ---
 
-Dr. Ruopu Li is an Associate Professor in School of Earth Systems and Sustainability at Southern Illinois University Carbondale. His research revolves around the applications of GIScience in agriculture, energy, and water resources.
+Enhancing High-resolution Terrain Data Model for Improving the Delineation of Multi-scale Hydrological Connectivity. 06/01/2010-11/30/2022, Co-PI: B. Rekabdar, G. Wang, National Science Foundation.
 
-His full CV can be found at [CV](https://cola.siu.edu/geography/_common/documents/faculty-cvs/li.pdf)
+Characterization of Groundwater Recharge Dynamics in the Unsaturated Zone Using Hydrologic Models in the Central Platte River Basin. 06/01/2018-02/29/2020, CO-PI: Gengxin Ou, Central Platte Natural Resources District.
 
-You can find his ResearchGate page:
-[ResearchGate](https://www.researchgate.net/profile/Ruopu_Li)
+haracterization of Harmful Algal Blooms Using Small Unmanned Aircraft Systems and Watershed Analysis in Southern Illinois, 03/01/2018-02/28/2019, awarded by Illinois Water Resources Center.
 
-You can find his Google Scholar page:
-[Google Scholar](https://scholar.google.com/citations?user=arMExhwAAAAJ&hl=en)
+Social Media Footprints of Public Perception on Energy Issues and Their Policy Implications, 07/01/2017-06/30/2018, Energy Boost Seed Grant awarded by SIU Advanced Coal and Energy Research Center.
 
-[University Homepage]: https://cola.siu.edu/geography/faculty-staff/faculty/ruopu-li.php
+Developing IT Applications to Assist in Communicating Hydrogeologic Information for Public Engagement, 05/01/2016-08/15/2018, awarded by Nebraska Department of Natural Resources.
+
+Geocoding Locations of Historic Reclamation Research Sites using Google Earth, 02/22/2016-07/31/2016, 11/1/2017-02/28/2018, awarded by American Society of Mining Reclamation.
+
+
+
